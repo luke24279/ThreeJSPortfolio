@@ -1,0 +1,26 @@
+body {
+    color: black;
+    font-size: 35px;
+  }
+
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .middle {
+    width: 900px;
+    margin-left: 40%;
+    margin-right: 10%;
+  }
+  h1 {
+    color: white;
+  }
+  @media screen and (max-width: 600px) {
+    .middle {
+        float: none;
+        width: 100%
+    }
+  }
