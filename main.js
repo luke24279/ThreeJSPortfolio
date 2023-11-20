@@ -32,14 +32,14 @@ ITF.rotation.y = STARTY
 ITF.position.x = -15
 ITF.scale.set(0.8, 0.75)
 ITF.position.x -= 8
-ITF.position.y -= 40
+ITF.position.y -= 45
 
 CIW.rotation.y = STARTY
 CIW.position.x = -15
 CIW.scale.set(0.8, 0.75)
 CIW.position.x -= 8
 
-CIW.position.y -= 80
+CIW.position.y -= 75
 
 
 
